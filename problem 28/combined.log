@@ -1,0 +1,2 @@
+{"level":"info","message":"\n req URL: /api/user/register \n reqBody: {\"name\":\"Pratyush\",\"email\":\"pratyush@gmail.com\",\"password\":\"Password123\"}","service":"request-logging"}
+{"level":"info","message":"\n req URL: /api/user/register \n reqBody: {\"name\":\"Pratyushs\",\"email\":\"pratyush@gmail.com\",\"password\":\"Password123\"}","service":"user-service"}
